@@ -1,0 +1,7 @@
+{
+  "name": "networkbar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
